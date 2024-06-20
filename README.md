@@ -4,7 +4,7 @@ Desde que me entendo por gente sou apaixonado por tecnologia 💻👾... e por c
 
 ## 
 <br/>
-Tenho mais de 8 anos de experiencia no mundo da programação, essas são algumas das tecnologias que uso no meu dia a dia
+Tenho mais de 7 anos de experiencia no mundo da programação, essas são algumas das tecnologias que uso no meu dia a dia
 
 <div stylr ="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
