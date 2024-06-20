@@ -17,17 +17,19 @@ Tenho mais de 5 anos de experiencia no mundo da programação, essas são alguma
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvn7&hide_progress=true)
 
-<br/>
-<br/>
+
+
+##
 <br/>
 
- acesse meu Linkedin para entender mais do meu momento profissional. 
+
+ Acesse meu Linkedin para entender mais do meu momento profissional. 
 
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-vinicius-alves-de-oliveira)
 
+
+
 ##
- Quer saber mais sobre um de meus hobbys? acesse o meu canal de gameplay, as vezes posto algumas coisas por lá, só para descontrair. 🙃
+ Quer saber mais sobre um de meus hobbys? acesse o meu canal de gameplay, as vezes posto algumas coisas por lá. 🙃
 
  [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9TYeudM7xQujgxzoMvWS3w)
-
- 
