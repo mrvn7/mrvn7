@@ -1,16 +1,33 @@
-## Hi there 👋
+### Olá! Me chamo Marcus Vinicius 🖐️
 
-<!--
-**mrvn7/mrvn7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desde que me entendo por gente sou apaixonado por tecnologia 💻👾... e por carros também! 🏎️ 🚙
 
-Here are some ideas to get you started:
+## 
+<br/>
+Tenho mais de 5 anos de experiencia no mundo da programação, essas são algumas das tecnologias que uso no meu dia a dia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div stylr ="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+</div>
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvn7&hide_progress=true)
+
+<br/>
+<br/>
+<br/>
+
+ acesse meu Linkedin para entender mais do meu momento profissional. 
+
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-vinicius-alves-de-oliveira)
+
+##
+ Quer saber mais sobre um de meus hobbys? acesse o meu canal de gameplay, as vezes posto algumas coisas por lá, só para descontrair. 🙃
+
+ [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9TYeudM7xQujgxzoMvWS3w)
+
+ 
