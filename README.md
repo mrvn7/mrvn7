@@ -15,9 +15,6 @@ Tenho mais de 7 anos de experiencia no mundo da programação, essas são alguma
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvn7&hide_progress=true)
-
-
 
 ##
 <br/>
